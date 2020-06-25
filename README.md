@@ -4,6 +4,6 @@
 - https://golang.org/
 
 ## IDE
-- https://www.jetbrains.com/ko-kr/go/
+- https://www.jetbrains.com/ko-kr/go/  (상용)
 
 
