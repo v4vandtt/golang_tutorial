@@ -11,5 +11,6 @@
 
 ## Tuturial
 - https://1ambda.github.io/golang/golang-tutorial/
+- https://talks.golang.org/
 
 
